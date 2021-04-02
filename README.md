@@ -1,4 +1,4 @@
-A phonebook app built in React and Node. Allows users to add new contacts, update contacts, and delete contacts as needed. 
+A phonebook app built in React and Node. Allows users to add new contacts, update contacts, and delete contacts as needed and filter through their contacts. 
 
 https://shrouded-stream-60826.herokuapp.com/
 
